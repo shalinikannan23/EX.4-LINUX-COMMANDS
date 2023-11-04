@@ -4,7 +4,7 @@
 ## AIM:
 To study and execute basic UNIX commands.
 
-## Software requirements:
+## Software requirements: 
 Linux operating system.
 
 ### COMMAND 1: ls - List Files and Directories
